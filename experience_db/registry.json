@@ -1,0 +1,7 @@
+[
+  {
+    "name": "experiences_dim1536_model_text_embedding_3_small",
+    "dim": 1536,
+    "model": "text-embedding-3-small"
+  }
+]
